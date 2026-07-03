@@ -1,0 +1,4 @@
+Divine=2
+capricious=2
+malevolent=2
+neutral=2
